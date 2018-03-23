@@ -56,7 +56,8 @@
     "readable-stream": "2.3.5",
     "safe-buffer": "^5.0.1",
     "seq-queue": "0.0.5",
-    "sqlstring": "2.3.1"
+    "sqlstring": "2.3.1",
+    "mle": "git@github.com:vjovanov/mle.git"
   },
   "devDependencies": {
     "assert-diff": "^1.2.0",
